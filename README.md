@@ -1,4 +1,4 @@
-# torch-mnist-gan
+# PyTorch MNIST GAN
 
 PyTorch Generative Adversarial Network trained on MNIST Handwritten Digits Dataset
 
